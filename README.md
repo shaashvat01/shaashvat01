@@ -6,8 +6,9 @@
 
 </div>
 
-<br>
-📫 [shaashvatmittal2004@gmail.com](mailto:shaashvatmittal2004@gmail.com) &nbsp; | &nbsp; 🌐 [shaashvatmittal.com](https://www.shaashvatmittal.com/)
+<div align="center">
+📫 <a href="mailto:shaashvatmittal2004@gmail.com">shaashvatmittal2004@gmail.com</a> | 🌐 <a href="https://www.shaashvatmittal.com">shaashvatmittal.com</a>
+</div>
 
 ---
 
