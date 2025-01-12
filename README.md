@@ -14,7 +14,7 @@
 
 🚀 Passionate about exploring the intersection of **technology, finance, and AI**. I strive to solve real-world challenges with innovative solutions, combining technical expertise with a creative mindset.
 
-- **Interests**: FinTech, Artificial Intelligence, Ethical AI, Full-Stack Development.
+- **Interests**: FinTech, Artificial Intelligence, Full-Stack Development.
  
 - **Currently Learning**: Advanced AI Ethics, FinTech applications, and cloud computing.
  
