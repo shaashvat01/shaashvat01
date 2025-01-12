@@ -2,10 +2,10 @@
 
 # Shaashvat Mittal
 
-**Computer Science | FinTech Innovator | AI Researcher**
+### <span style="font-size: 20px;">**Computer Science | FinTech Innovator | AI Researcher**</span>
 
 </div>
-
+<br>
 <div align="center">
 📫 <a href="mailto:shaashvatmittal2004@gmail.com">shaashvatmittal2004@gmail.com</a> | 🌐 <a href="https://www.shaashvatmittal.com">shaashvatmittal.com</a>
 </div>
