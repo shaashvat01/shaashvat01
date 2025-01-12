@@ -24,8 +24,6 @@
 
 ---
 
-## 🌟 Featured Stats
+## 📚 Most Used Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaashvat01&show_icons=true&theme=radical)
-
-📊 *Tracking growth through impactful contributions and open-source engagement.*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaashvat01&layout=compact&theme=radical)
